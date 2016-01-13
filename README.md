@@ -4,7 +4,7 @@ This is a course on [how to be a hacker](http://www.catb.org/esr/faqs/hacker-how
 Being a hacker [means a lot of things](http://www.catb.org/jargon/html/H/hacker.html).
 It means:
 
-1. wanting to know *how* and *why* computers work
+1. wanting to know some stuff.
 
 2. being efficient / never repeating yourself
 
